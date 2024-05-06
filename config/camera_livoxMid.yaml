@@ -1,0 +1,11 @@
+cam_model: Pinhole
+cam_width: 640
+cam_height: 480
+cam_fx: 616.280639
+cam_fy: 616.625793
+cam_cx: 328.547637
+cam_cy: 235.674866
+cam_d0: 0.0    # 一阶径向畸变系数
+cam_d1: 0.0
+cam_d2: 0.0
+cam_d3: 0.0
