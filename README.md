@@ -2,7 +2,7 @@
 
 ### 1.0 Framework
 
-<div align="center"><img src="image/Framework.png" width=100% /></div>
+<div align="center"><img src="img/Framework.png" width=100% /></div>
 
 ## 2. Prerequisited
 
@@ -73,4 +73,4 @@ roslaunch fast_livo mapping_livoxMid.launch
 
 ## 4. Example
 
-<div align="center"><img src="image/建图结果.png" width=100% /></div>
+<div align="center"><img src="img/建图结果.png" width=100% /></div>
